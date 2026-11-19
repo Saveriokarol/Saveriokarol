@@ -9,7 +9,7 @@ Some of my skills are not fully mastered, but it is always good to know more tha
 [![Skills](https://skillicons.dev/icons?i=html,js,css,py,arduino,c,cpp,lua,asm,java,sqlite,nginx,bash,androidstudio,blender&perline=7)](https://skillicons.dev)
 
 ### Fears/Phobias/Traumas
-I had to add it because it's funny 😂
+I had to add it because it's funny lol
 
 [![Fears](https://skillicons.dev/icons?i=docker,go,rust,cs,dotnet,robloxstudio,powershell,kotlin,swift,emacs,godot&perline=7)](https://skillicons.dev)
 
@@ -17,9 +17,12 @@ I had to add it because it's funny 😂
 [![IDEs](https://skillicons.dev/icons?i=arduino,vscode,visualstudio,bash&perline=7)](https://skillicons.dev)
 
 ## IDEs i use now
-### Nothing. Pure terminal ❤️‍🩹
+### Nothing. Pure terminal❤️‍🩹
 
 ## OSes i used so far
 [![OS](https://skillicons.dev/icons?i=ubuntu,arch,windows,linux&perline=7)](https://skillicons.dev)
 
-With the Tux icon i mean LFS. 💀✌️
+With the Tux icon i mean LFS.
+
+**Note**: I own a private website hosted from my laptop, it will contain my dark researches and utilities.
+If you know it, don't spread it. Shhh.
